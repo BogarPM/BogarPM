@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @BogarPM. I'm a 21 years old mechatronic engineer, i live in Mexico.
+My name is Bogar A. Pérez Mireles, i'm a 21 years old mechatronic engineer (almost).
+I'm a life long learner, interested in many fields of technological industry, mostly:
+- Web development
+- Embeded electronic/control systems.
 
-- 👀 I’m interested in web development and designing discrete time control systems and automation.
 
-- 🌱 I’m currently learning web development with DJango and modeling and analysis of dynamical systems for control purposes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 BogarPM/BogarPM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
