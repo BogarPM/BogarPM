@@ -1,7 +1,10 @@
 My name is Bogar A. Pérez Mireles, i'm a 21 years old mechatronic engineer (almost).
-I'm a life long learner, interested in many fields of technological industry, mostly:
+I'm interested in many fields of technological industry, mostly:
 - Web development
-- Embeded electronic/control systems.
+- Embeded electronic/control systems
+- IOT development
+
+
 
 
 
