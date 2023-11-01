@@ -1,9 +1,17 @@
-My name is Bogar A. Pérez Mireles, i'm a 22 years old mechatronic engineer.
-I'm interested in some fields of technological industry, mostly:
-- Web development
-- Embeded electronic/control systems
-- IOT development
-I'm looking for collaborating into technology development for a better society.
+My name is Bogar A. Pérez Mireles, i'm a 24 years old mechatronic engineer.
+I'm focussed on software development, i have 2 year experiencie developing with technologies like
+  - Javascript ( Backend with Express JS, Front with React )
+  - Python
+  - C / C++
+  - Java
+  - Kotlin
+  - SQL / NOSQL
+  - Linux
+
+Today i'm developing software development and implementation skills, working with users applying design thinking and UI / UI methodologies
+to give the best experience to users and grant a correct software functionality.
+
+
 
 
 
